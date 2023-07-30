@@ -11,4 +11,4 @@ Following are the rules of the game:-
   - Gun vs. Snake: Gun will kill the snake and win.
 In situations where both players choose the same object, the result will be a draw.
 
-### To play the Game You must have to first run the code in the given text file on any of the Python Compiler of Your Choice!
+### To play the Game You must have to first run the code in the given file on any of the Python Compiler of Your Choice!
