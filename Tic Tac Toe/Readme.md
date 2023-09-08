@@ -7,5 +7,5 @@ One of the player chooses ‘O’ and the other ‘X’ to mark their respective
 The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).
 If no one wins, then the game is said to be draw. 
 
-### To play the game in your PC you must have to Download the code file and run in any of the Ccompiler of your choice!
+### To play the game in your PC you must have to Download the code file and run in any of the C compiler of your choice!
 
